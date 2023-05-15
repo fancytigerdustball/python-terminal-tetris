@@ -1,6 +1,6 @@
 # python-terminal-tetris
 
-This 100% python program runs tetris in the terminal.
+This 100% python program runs tetris in a terminal.
 
 A PyGame window detects key-presses and responds to events.
 
