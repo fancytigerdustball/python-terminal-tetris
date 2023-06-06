@@ -5,7 +5,7 @@ import os
 try:
     import pygame
 except:
-    print('Unable to install necessary package "pygame".')
+    print('Unable to import necessary package "pygame".')
     while True: pass
 try:
     from bext import bg
@@ -81,7 +81,7 @@ clicked = s = False
 last_dropped = last_sped_up = clock()
 
 def print_board():
-    if os.name in ('nt', 'dos'):
+    if os.name == 'nt:
         os.system('cls')
     else:
         os.system('clear')
