@@ -32,7 +32,3 @@ Key controls:
 - a and d to move 
 - s to fall faster
 - Ooorrrr you can replace the wasd keys with the arrow keys.
-
-NOTE!!!
-
-If PyGame is not installed and the file is run, it will attempt to install it.
