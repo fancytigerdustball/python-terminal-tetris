@@ -6,7 +6,7 @@ A PyGame window detects key-presses and responds to events.
 
 The highscore is saved in a JSON file.
 
-I also did not know how to write very pretty code when I made this so it is very dense and had NO comments. 😥
+Also, I did not know how to write very pretty code when I made this so it is very dense and had NO comments. 😥
 
 ###   Installation
 
